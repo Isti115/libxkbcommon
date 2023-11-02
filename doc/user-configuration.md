@@ -64,7 +64,7 @@ xkb_keymap {
 ```
 
 A detailed explanation of how rules files convert RMLVO to KcCGST is out of
-scope for this document. See [the rules file](md_doc_rules-format.html) page
+scope for this document. See [the rules file](rules-format.md) page
 instead.
 
 
